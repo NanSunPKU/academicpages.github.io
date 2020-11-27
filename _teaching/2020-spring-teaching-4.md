@@ -9,5 +9,4 @@ location: "Houston, TX"
 ---
 
 ### 2020 Spring -- Teaching Assistant for Natural Disaster
-
-* To be described in detail
+1. To be described in detail

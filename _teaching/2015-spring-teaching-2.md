@@ -9,8 +9,6 @@ location: "Houston, TX"
 ---
 
 ### 2015-2020 Fall -- Teaching Assistant for Mineralogy
-
-* Instructed 200+ students in Mineralogy laboratory courses;
-
-* Assisted with the writing, administering, and grading of labs and exams and organizing of hand samples.
+1. Instructed 200+ students in Mineralogy laboratory courses;
+2. Assisted with the writing, administering, and grading of labs and exams and organizing of hand samples.
 

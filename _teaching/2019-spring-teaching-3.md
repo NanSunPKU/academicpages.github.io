@@ -9,5 +9,4 @@ location: "Houston, TX"
 ---
 
 ### 2019 Spring and 2017 Spring -- Teaching Assistant for Physical Geology
-
-* To be described in detail
+1. To be described in detail
