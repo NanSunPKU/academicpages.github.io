@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-### 2019/1 – 2019/5 Teaching Assistant for GIS
+### 2020/1 – 2020/5 Teaching Assistant for Physical Geology and Natural Disaster
 
 * Taught students about ArcGIS Pro, building Geodatabase, Projection Systems, Integrating Remote Sensing Data, Python Programming, Spatial Analysis and 3-D visualization.
 

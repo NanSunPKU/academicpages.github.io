@@ -8,13 +8,9 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### 2015-2020 Fall semesters Teaching Assistant for Mineralogy
 
-Heading 1
-======
+* Instructed 200+ students in Geospatial Analysis and Applications, Mineralogy and Physical Geology laboratory courses;
 
-Heading 2
-======
+* { Assisted with the writing, administering, and grading of labs and exams and organizing of hand samples in Mineralogy and Physical Geology.
 
-Heading 3
-======
