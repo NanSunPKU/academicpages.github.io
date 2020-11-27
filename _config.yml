@@ -193,7 +193,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: posts
     values:
       layout: single
@@ -204,14 +204,14 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: teaching
     values:
       layout: single
@@ -238,7 +238,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: talks
     values:
       layout: talk
