@@ -8,7 +8,7 @@ date: 2015-09-01
 location: "Houston, TX"
 ---
 
-### 2015-2020 Fall semesters Teaching Assistant for Mineralogy
+### 2015-2020 Fall -- Teaching Assistant for Mineralogy
 
 * Instructed 200+ students in Mineralogy laboratory courses;
 
