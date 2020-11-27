@@ -63,4 +63,8 @@ Teaching
   
 Service and leadership
 ======
-* Volunteer
+* Volunteer for Olympic Games, Concerts, Charity Groups, and Elementary Schools
+
+Hobbies
+======
+Yoga, Meditation, Cooking and Badminton
