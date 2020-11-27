@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: publications
     values:
       layout: single
@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "https://nansunpku.github.io/nansun.github.io"
       type: portfolio
     values:
       layout: single
