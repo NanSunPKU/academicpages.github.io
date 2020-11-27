@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geochemistry, Peking University, 2011
-* M.S. in Geochemistry, Case Wester Reserve Universtiy, 2015
-* Ph.D in Geochemistry, University of Houston, 2021
 * M.S. in Computer Science, Gerogia Technology Institute, 2022
+* Ph.D in Geochemistry, University of Houston, 2021
+* M.S. in Geochemistry, Case Wester Reserve Universtiy, 2015
+* B.S. in Geochemistry, Peking University, 2011
 
 Work experience
 ======
