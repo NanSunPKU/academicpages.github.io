@@ -32,7 +32,7 @@ multiple compression algorithms. Reduced the flops by more than 90% without sacr
 * Summer 2018: Geospatial Information System Analyst Intern
   * setld Information Solutions
   * Duties included: { Team lead and monitored work progress of GIS team to increase the request processing time by 30% Created instructional documentations and videos for map digitization and georeferencing work flow. Integrated Exploration&Production data from 1500+ international oil and gas companies and related organizations, and provided visualization solutions to clients with business strategies.
-  * Supervisor: Professor Khan
+  * Supervisor: Jacob
   
 Skills
 ======

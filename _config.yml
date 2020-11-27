@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ERFNbyMAAAAJ&hl=en"
-  email            :
+  email            : "nsun44@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/NanSunPKU"
+  github           : "NanSunPKU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nan-sun/"
+  linkedin         : "nan-sun/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/11694956/nan-sun"
+  stackoverflow    : "11694956/nan-sun"
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
