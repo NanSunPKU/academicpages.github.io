@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## PhD in Geochemistry, MS in Computer Science. Professional certificate in Geospatial Information System.
 
 
 
