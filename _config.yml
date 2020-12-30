@@ -11,7 +11,7 @@ title                    : "Nan Sun / personal website"
 title_separator          : "-"
 name                     : &name "Anna"
 description              : &description "personal description"
-url                      : https://nansunpku.github.io/nansun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nansunpku.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -193,7 +193,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: posts
     values:
       layout: single
@@ -204,14 +204,14 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: teaching
     values:
       layout: single
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: publications
     values:
       layout: single
@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: portfolio
     values:
       layout: single
@@ -238,7 +238,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: "https://nansunpku.github.io/nansun.github.io"
+      path: "https://nansunpku.github.io/portfolio"
       type: talks
     values:
       layout: talk
