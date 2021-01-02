@@ -18,11 +18,11 @@ Education
 
 Work experience
 ======
-* Summer 2020: Data Science Intern
+<!-- * Summer 2020: Data Science Intern
   * Moffett AI. Inc
   * Duties included: Implemented state-of-the-art person re-identification algorithms, compressed the neural networks by
 multiple compression algorithms. Reduced the flops by more than 90% without sacrificing model performance. Deployed the deep learning models by high-performance inference TensorRT on NVIDIA GPUs.
-  * Supervisor: JC
+  * Supervisor: JC -->
 
 * Spring 2019: Teaching Assistant for GIS
   * University of Houston
