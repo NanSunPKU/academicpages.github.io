@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://nansunpku.github.io/portfolio/images/portfolio1.JPG'>"
+title: "American Museum of Natural History @New York"
+excerpt: "Me and the giraffe are looking at the same direction.<br/><img src='https://nansunpku.github.io/portfolio/images/portfolio1.JPG'>"
 collection: portfolio
 ---
 
