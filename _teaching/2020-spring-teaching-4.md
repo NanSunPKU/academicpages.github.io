@@ -9,4 +9,4 @@ location: "Houston, TX"
 ---
 
 ### 2020 Spring -- Teaching Assistant for Natural Disaster
-1. To be described in detail
+1. Held Office hours, graded weekly assignments and exams

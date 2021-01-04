@@ -8,5 +8,6 @@ date: 2019-01-01
 location: "Houston, TX"
 ---
 
-### 2019 Spring and 2017 Spring -- Teaching Assistant for Physical Geology
-1. To be described in detail
+### 2016-2018 Springs -- Teaching Assistant for Physical Geology
+1. 2018 Spring: Organized department mineral display, digitized the mineral inventory
+2. 2016-2017 Spring: Assisted labs, office hours, grade weekly assignments
